@@ -1,6 +1,6 @@
 # AWS Cloud Practitioner Learning Journey
 
-## Introduction
+## Intro
 
 👋 Hello there! Today marks **Day ONE** of my journey to become a better data practitioner.  I'm diving into the world of AWS Cloud with this awesome video course by freeCodeCamp.org: [AWS Certified Cloud Practitioner Course](https://www.youtube.com/watch?v=NhDYbskXRgc&t=9533s). 
 
